@@ -6,12 +6,12 @@ plenty of other stuffs(Like tricking your freind into revealing his/her wifi pas
 Using it is preety simple either run the ExtractionScript.py in your cmd,terminal or wherever you run your python programs. The output will reveal all the necessary details
 
 ```shell
-python ExtractionScript.py.py
+python ExtractionScript.py
 ```
 or
 
 ```shell
-python3 ExtractionScript.py.py
+python3 ExtractionScript.py
 ```
 depends on your OS.
 
