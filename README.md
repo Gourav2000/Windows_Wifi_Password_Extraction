@@ -17,4 +17,4 @@ In case you haven't worked with python before or just want to test the script ou
 
 ## Exe file
 You can test it out directly by downloading the exe file from here https://github.com/Gourav2000/Windows_Wifi_Password_Extraction/raw/master/dist/ExtractionScript.exe 
-and even if chrome shows you a warning, it's not harmful for your devicein anyway lol!
+and even if chrome shows you a warning, it's not harmful for your device in anyway lol!
