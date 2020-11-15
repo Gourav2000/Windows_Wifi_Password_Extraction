@@ -15,6 +15,9 @@ depends on your OS.
 
 In case you haven't worked with python before or just want to test the script out and ignore the boring details...you can the download the exe file from below and test it out.
 
+## Screenshot
+![SS](https://github.com/Gourav2000/Windows_Wifi_Password_Extraction/blob/master/Screenshots/Untitled.png)
+
 ## Exe file
 You can test it out directly by downloading the exe file from here https://github.com/Gourav2000/Windows_Wifi_Password_Extraction/raw/master/dist/ExtractionScript.exe 
 and even if chrome shows you a warning, it's not harmful for your device in anyway lol!
